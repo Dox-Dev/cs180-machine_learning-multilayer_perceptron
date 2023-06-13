@@ -1,6 +1,8 @@
 # cs180-group19
 ## Utilizing Multilayer Perceptron for Physical Activity Level
 
+Python Notebook: https://colab.research.google.com/drive/1SKGBX4daXHX9r6OweB6yZLolfoGrsyF8?usp=sharing
+
 The web application is powered by Streamlit, which is a convenient app builder made specifically to create shareable web apps from pure Python.
 
 First, install Anaconda Navigator and Streamlit via the guide given in the documentations:
